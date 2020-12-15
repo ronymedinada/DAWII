@@ -1,3 +1,5 @@
+## Instrucciones
+- Instalar dependencias con (npm install) 
 ## listar
 ```
 node index.js listar --limite 8
